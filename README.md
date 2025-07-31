@@ -1,3 +1,5 @@
+#Stock_Market_Prediction
+
 Predicting Stock Market Trends Using Historical Data with Deep Learning:
 
   This project aims to forecast stock market trends using historical stock price data and a deep learning model, particularly Long Short-Term Memory (LSTM) networks. By capturing temporal dependencies in time-series data, the model helps predict future stock movements with strong accuracy metrics.
